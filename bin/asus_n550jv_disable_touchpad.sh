@@ -1,3 +1,3 @@
 #!/bin/sh
 
-xinput set-prop 'ETPS/2 Elantech Touchpad' "Device Enabled" 0
+synclient TouchpadOff=1
